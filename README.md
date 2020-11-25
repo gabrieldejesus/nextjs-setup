@@ -35,9 +35,9 @@ git clone https://github.com/devgabrieldejesus/nextjs-setup
 
 or download the zip from the green button at the beginning of the repository
 
-<img src="https://i.ibb.co/3mLnKMH/clone.png" alt="clone" border="0">
+<img src="https://i.ibb.co/3mLnKMH/clone.png" alt="Download zip" border="0">
 
-<img src="https://i.ibb.co/NYTzBd9/clone-zip.png" alt="clone-zip" border="0">
+<img src="https://i.ibb.co/NYTzBd9/clone-zip.png" alt="Download zip" border="0">
 
 ## 🗃 Release history
 
