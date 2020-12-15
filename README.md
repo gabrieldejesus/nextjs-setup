@@ -20,10 +20,6 @@ _English_
 
 📜 A template that contains everything you need to build an amazing project using next.js, typescript and styled-components
 
-📏 **ESLint** — Pluggable JavaScript linter
-
-❤ **Prettier** - Opinionated Code Formatter
-
 ## 🛠 Installation
 
 Windows:
